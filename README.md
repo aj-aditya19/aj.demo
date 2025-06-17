@@ -1,4 +1,4 @@
 # aj.projects
 My first repository 
 <br>
-Author - myself
+Author - Aditya Jaiswal
